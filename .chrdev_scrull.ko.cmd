@@ -1,0 +1,1 @@
+cmd_/home/sun/Documents/test/chrdev_scrull.ko := arm-linux-gnueabihf-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/sun/Documents/test/chrdev_scrull.ko /home/sun/Documents/test/chrdev_scrull.o /home/sun/Documents/test/chrdev_scrull.mod.o ;  true
